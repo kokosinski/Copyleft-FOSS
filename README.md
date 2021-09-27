@@ -15,3 +15,6 @@ Open Software License 3.0
 Microsoft Reciprocal License
 Reciprocal Public License 1.5
 Open Data Commons Open Database License v1.0
+
+
+Copyright Kokosinski. All rights reserved.
