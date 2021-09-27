@@ -17,4 +17,7 @@ Reciprocal Public License 1.5
 Open Data Commons Open Database License v1.0
 
 
-Copyright Kokosinski. All rights reserved.
+   
+// Copyright 2021 Kokosinski. All rights reserved.
+// Use of this source code is governed by a JPII-style
+// license that can be found in the LICENSE file.
